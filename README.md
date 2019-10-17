@@ -26,10 +26,11 @@ Provide a high-level overview of Unity and demonstrate the basics of creating a 
  - Serialized fields (for editor)
 
 3. Game Code
+ - UnityEvents and C# Events
  - Game Controller
  - UI Controller
  - Components
- - UnityEvents and C# Events
+ - Utilities
 
 4. Game Setup in Editor
  - Structuring Prefabs
